@@ -1,7 +1,0 @@
-generic\BaseTest.class
-generic\IAutoConstant.class
-pompages\LoginPage.class
-scripts\TestInvalidLogin.class
-generic\Lib.class
-pompages\HomePage.class
-scripts\TestValidLogin.class
